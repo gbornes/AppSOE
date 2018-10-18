@@ -1,0 +1,208 @@
+<resources>
+    <string-array name="ArrayEspecialidades">
+        <item>Ingeniería en Sistemas</item>
+        <item>Ingeniería Indrustrial</item>
+        <item>Ingeniería Química</item>
+        <item>Ingeniería Civil</item>
+        <item>Ingeniería Mecánica</item>
+        <item>Ingeniería Eléctrica</item>
+    </string-array>
+
+    <!-- Strings para el Activity Main -->
+    <string name="app_name">SOE</string>
+    <string name="TitleSOE">SOE</string>
+    <string name="SoeMeaning">Sistema de Orientación Estudiantil</string>
+    <string name="dataHeader">TUS DATOS</string>
+    <string name="nameField">Nombre</string>
+    <string name="surnameField">Apellido</string>
+    <string name="emailField">Email</string>
+    <string name="messageText">No enviaremos ningún tipo de información a tu Email si no lo deseas.</string>
+    <string name="LoginButton">Login</string>
+
+    <!-- Strings para el Activity Presentacion -->
+    <string name="title_activity_presentacion"> </string>
+    <string name="activity_presentacion_titulo">¡LA UTN TE ESPERA!</string>
+    <string name="activity_presentacion_Subtitulo">¿Listo para conocer tu futura profesión?</string>
+    <string name="activity_presentacion_descripcion">Este test te brindará una Orientación hacia la Ingeniería con la que tienes mas afinidad.</string>
+    <string name="startButton">Comenzar Test</string>
+
+    <!--                            Strings para los distintos Activities                           -->
+    <!-- Strings para el Activity Pregunta1 -->
+    <string name="title_activity_pregunta1">SOE</string>
+    <string name="activity_pregunta1_Progress">1 de 15</string>
+    <string name="question1">Cuando vas a tomar algo...</string>
+    <!-- ¿Te quedas prestando atención al diseño y cómo está hecho el programa que usan los mozos para llevar a cabo la cuenta de cada mesa? -->
+
+    <!-- Strings para el Activity Pregunta2 -->
+    <string name="title_activity_pregunta2">SOE</string>
+    <string name="activity_pregunta2_Progress">2 de 32</string>
+    <string name="question2">¿Te gustaría diseñar y producir máquinas para grandes fábricas?</string>
+
+    <!-- Strings para el Activity Pregunta3 -->
+    <string name="title_activity_pregunta3">SOE</string>
+    <string name="activity_pregunta3_Progress">3 de 32</string>
+    <string name="question3">¿Te gustaría perfeccionar maquinarias de producción?</string>
+
+    <!-- Strings para el Activity Pregunta4 -->
+    <string name="title_activity_pregunta4">SOE</string>
+    <string name="activity_pregunta4_Progress">4 de 32</string>
+    <string name="question4">¿Te gustaría evaluar y operar procesos de producción?</string>
+
+    <!-- Strings para el Activity Pregunta5 -->
+    <string name="title_activity_pregunta5">SOE</string>
+    <string name="activity_pregunta5_Progress">5 de 32</string>
+    <string name="question5">¿En el colegio te gustaba la materia química?</string>
+
+    <!-- Strings para el Activity Pregunta6 -->
+    <string name="title_activity_pregunta6">SOE</string>
+    <string name="activity_pregunta6_Progress">6 de 32</string>
+    <string name="question6">¿Te gustaría desarrollar maquinaria para grandes empresas?</string>
+
+    <!-- Strings para el Activity Pregunta7 -->
+    <string name="title_activity_pregunta7">SOE</string>
+    <string name="activity_pregunta7_Progress">7 de 32</string>
+    <string name="question7">¿Te gustan las Matemáticas?</string>
+
+    <!-- Strings para el Activity Pregunta8 -->
+    <string name="title_activity_pregunta8">SOE</string>
+    <string name="activity_pregunta8_Progress">8 de 32</string>
+    <string name="question8">¿Te consideras una persona práctica? </string>
+
+    <!-- Strings para el Activity Pregunta9 -->
+    <string name="title_activity_pregunta9">SOE</string>
+    <string name="activity_pregunta9_Progress">9 de 32</string>
+    <string name="question9">¿Te gustaría realizar productos o servicios que mejoren la calidad de vida de las personas? </string>
+
+    <!-- Strings para el Activity Pregunta10 -->
+    <string name="title_activity_pregunta10">SOE</string>
+    <string name="activity_pregunta10_Progress">10 de 32</string>
+    <string name="question10">¿Te atrae la idea de trabajar desarrollando sistemas de comunicación?</string>
+
+    <!-- Strings para el Activity Pregunta11 -->
+    <string name="title_activity_pregunta11">SOE</string>
+    <string name="activity_pregunta11_Progress">11 de 32</string>
+    <string name="question11">¿Podes distinguir de qué trata esta imagen?</string>
+
+    <!-- Strings para el Activity Pregunta12 -->
+    <string name="title_activity_pregunta12">SOE</string>
+    <string name="activity_pregunta12_Progress">12 de 32</string>
+    <string name="question12">¿Te gustaría saber cómo funcionan internamente las máquinas?</string>
+
+    <!-- Strings para el Activity Pregunta13 -->
+    <string name="title_activity_pregunta13">SOE</string>
+    <string name="activity_pregunta13_Progress">13 de 32</string>
+    <string name="question13">¿Te gustaría contribuir a un mejor rendimiento de una empresa?</string>
+
+    <!-- Strings para el Activity Pregunta14 -->
+    <string name="title_activity_pregunta14">SOE</string>
+    <string name="activity_pregunta14_Progress">14 de 32</string>
+    <string name="question14">¿Sos una persona creativa?</string>
+
+    <!-- Strings para el Activity Pregunta15 -->
+    <string name="title_activity_pregunta15">SOE</string>
+    <string name="activity_pregunta15_Progress">15 de 32</string>
+    <string name="question15">¿Te gustaría diseñar sistemas eléctricos?</string>
+
+    <!-- Strings para el Activity Pregunta16 -->
+    <string name="title_activity_pregunta16">SOE</string>
+    <string name="activity_pregunta16_Progress">16 de 32</string>
+    <string name="question16">¿Te gustaría programar en distintos lenguajes de programación?</string>
+
+    <!-- Strings para el Activity Pregunta17 -->
+    <string name="title_activity_pregunta17">SOE</string>
+    <string name="activity_pregunta17_Progress">17 de 32</string>
+    <string name="question17">¿Te gustaría trabajar en una planta de producción de automóviles?</string>
+
+    <!-- Strings para el Activity Pregunta18 -->
+    <string name="title_activity_pregunta18">SOE</string>
+    <string name="activity_pregunta18_Progress">18 de 32</string>
+    <string name="question18">¿Te gustaría trabajar para la industria petroquímica?</string>
+
+    <!-- Strings para el Activity Pregunta19 -->
+    <string name="title_activity_pregunta19">SOE</string>
+    <string name="activity_pregunta19_Progress">19 de 24</string>
+    <string name="question19">¿Tenes liderazgo al trabajar en grupo?</string>
+
+    <!-- Strings para el Activity Pregunta20 -->
+    <string name="title_activity_pregunta20">SOE</string>
+    <string name="activity_pregunta20_Progress">20 de 24</string>
+    <string name="question20">¿Te gustaría contribuir al uso eficiente de la energía eléctrica para el desarrollo industrial?</string>
+
+    <!-- Strings para el Activity Pregunta21 -->
+    <string name="title_activity_pregunta21">SOE</string>
+    <string name="activity_pregunta21_Progress">21 de 32</string>
+    <string name="question21">¿Consideras que las energías renovables son el futuro?</string>
+
+    <!-- Strings para el Activity Pregunta22 -->
+    <string name="title_activity_pregunta22">SOE</string>
+    <string name="activity_pregunta22_Progress">22 de 32</string>
+    <string name="question22">Cuando viajas a otras ciudades lo primero que te llama la atención, ¿ son las construcciones de los edificio?</string>
+
+    <!-- Strings para el Activity Pregunta23 -->
+    <string name="title_activity_pregunta23">SOE</string>
+    <string name="activity_pregunta23_Progress">23 de 32</string>
+    <string name="question23">¿Quieres aprender los fundamentos físicos del electromagnetismo? </string>
+
+    <!-- Strings para el Activity Pregunta24 -->
+    <string name="title_activity_pregunta24">SOE</string>
+    <string name="activity_pregunta24_Progress">24 de 32</string>
+    <string name="question24">¿Disfrutas haciendo experimentos con distintas sustancias? </string>
+
+    <!-- Strings para el Activity Pregunta25 -->
+    <string name="title_activity_pregunta25">SOE</string>
+    <string name="activity_pregunta25_Progress">25 de 32</string>
+    <string name="question25">¿Te gustaría diseñar y planificar el tráfico de tu ciudad?</string>
+
+    <!-- Strings para el Activity Pregunta26 -->
+    <string name="title_activity_pregunta26">SOE</string>
+    <string name="activity_pregunta26_Progress">26 de 32</string>
+    <string name="question26">¿Tenes interés por la electrónica y sus componentes?</string>
+
+    <!-- Strings para el Activity Pregunta27 -->
+    <string name="title_activity_pregunta27">SOE</string>
+    <string name="activity_pregunta27_Progress">27 de 32</string>
+    <string name="question27">¿Tenes facilidad con el dibujo técnico?</string>
+
+    <!-- Strings para el Activity Pregunta28 -->
+    <string name="title_activity_pregunta28">SOE</string>
+    <string name="activity_pregunta28_Progress">28 de 32</string>
+    <string name="question28">Cuando hay que arreglar un auto, ¿tus amigos recurren a vos?</string>
+
+    <!-- Strings para el Activity Pregunta29 -->
+    <string name="title_activity_pregunta29">SOE</string>
+    <string name="activity_pregunta29_Progress">29 de 32</string>
+    <string name="question29">¿Te interesa el estudio, la exploración y la producción de hidrocarburos?</string>
+
+    <!-- Strings para el Activity Pregunta30 -->
+    <string name="title_activity_pregunta30">SOE</string>
+    <string name="activity_pregunta30_Progress">30 de 32</string>
+    <string name="question30">¿Te gustaría contribuir al desarrollo de tu país proyectando obras civiles?</string>
+
+    <!-- Strings para el Activity Pregunta31 -->
+    <string name="title_activity_pregunta31">SOE</string>
+    <string name="activity_pregunta31_Progress">31 de 32</string>
+    <string name="question31">¿Se te facilita el análisis de planos?</string>
+
+    <!-- Strings para el Activity Pregunta32 -->
+    <string name="title_activity_pregunta32">SOE</string>
+    <string name="activity_pregunta32_Progress">32 de 32</string>
+    <string name="question32">¿Te interesaría saber los componentes químicos de los alimentos?</string>
+
+
+    <!-- Strings para el Activity Resultado -->
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="activity_resultado_conclusion">El resultado es...</string>
+    <string name="activity_resultado_ingenieria">INGENIERIA EN SISTEMAS</string>
+    <string name="activity_resultado_dejanos_tus_datos"><![CDATA[<u>Dejanos tus datos!</u>]]></string>
+
+
+    <!-- Strings para el Activity Información -->
+    <string name="title_activity_Informacion">Acerca de</string>
+    <string name="activity_Informacion_descripcion">Este es un Test de Orientación Vocacional de Ingenierías.</string>
+    <string name="activity_Informacion_descripcion2">El cuestionario está compuesto por 15 preguntas cerradas, asociadas a las diferentes ramas de Ingenierías que se dictan en la UTN FRLP.</string>
+    <string name="activity_Informacion_descripcion3">Deberás contestar las 15 preguntas, eligiendo SI o NO según lo consideres.</string>
+    <string name="activity_Informacion_descripcion4">Al finalizar, la aplicación arrojará con cuál de las Ingenierías tienes mas afinidad.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

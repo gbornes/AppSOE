@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="128dp"
+    android:background="#fff"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageButton
+        android:id="@+id/imgBtnNo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/btn_redondo_animado"
+        app:layout_constraintStart_toEndOf="@+id/imgBtnPrevious"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ib_no" />
+
+    <ImageButton
+        android:id="@+id/imgBtnYes"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/btn_redondo_animado"
+        app:layout_constraintStart_toEndOf="@+id/imgBtnNo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ib_yes" />
+
+    <ImageButton
+        android:id="@+id/imgBtnPrevious"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/btn_redondo_animado"
+        app:layout_constraintEnd_toStartOf="@+id/imgBtnNo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ib_return" />
+
+</android.support.constraint.ConstraintLayout>
